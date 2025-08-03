@@ -1,4 +1,5 @@
 **Skincare Recommendation Database**
+
 **📌 Objective**
 As part of a Code First Girls SQL course, I designed and queried a skincare product database aimed at helping users find the right products based on few specific skin concerns (e.g., acne, dryness, pigmentation). This case study mimics a basic skincare recommendation engine — enabling insights like:
 - Which products target a specific concern (e.g., acne)?
