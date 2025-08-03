@@ -1,18 +1,21 @@
 **Skincare Recommendation Database**
 
 **📌 Objective**
+
 As part of a Code First Girls SQL course, I designed and queried a skincare product database aimed at helping users find the right products based on few specific skin concerns (e.g., acne, dryness, pigmentation). This case study mimics a basic skincare recommendation engine — enabling insights like:
 - Which products target a specific concern (e.g., acne)?
 
 This project allowed me to practice relational schema design, ER modeling, and SQL querying for real-world skincare data.
 
 **🛠️ What I Did**
+
 Designed a relational database schema from scratch
 Created an ER diagram using MySQL Workbench
 Queried data to recommend products based on concerns
 Wrote SQL queries to uncover brand insights, rating trends, and routine coverage
 
 **🗃️ Database Structure**
+
 The database includes the following tables:
 
 **Products:** Product ID, Product_Name, Price
