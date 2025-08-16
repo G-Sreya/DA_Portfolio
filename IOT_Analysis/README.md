@@ -30,7 +30,7 @@ The dataset contained time-series IoT sensor readings with the following fields:
   ## 💡 Insights & Business Value
 - Enabled **device-level monitoring** across multiple sensors
 - Certain devices consistently generated more alerts, pointing to location-specific issues.
--  Trends + forecasts enable **predictive anomaly monitoring**, not just reactive checks  
+- Trends + forecasts enable **predictive anomaly monitoring**, not just reactive checks  
 - Early anomaly detection helps facility managers take timely action  
 - Supports **health, safety, and energy efficiency** in smart buildings 
 
