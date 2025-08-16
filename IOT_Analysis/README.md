@@ -39,4 +39,4 @@ The dataset contained time-series IoT sensor readings with the following fields:
 - **Power BI** → Interactive dashboards and anomaly detection visuals  
 
 ## Dashboard
-![IOT Dashboard](IOT_Analysis/IoT_DA.png)
+![IOT_Analysis](./IoT_DA.png)
